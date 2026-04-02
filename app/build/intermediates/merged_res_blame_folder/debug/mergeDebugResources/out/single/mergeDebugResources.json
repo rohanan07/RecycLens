@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable-nodpi_alex_suprun_zhvm3xiohoe_unsplash.jpg.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable-nodpi/alex_suprun_zhvm3xiohoe_unsplash.jpg"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable-nodpi_blank_page.png.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable-nodpi/blank_page.png"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/font_poppins_regular.ttf.flat",
+        "source": "com.example.recyclens.app-main-76:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/xml_network_security_config.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/font_poppins_bold.ttf.flat",
+        "source": "com.example.recyclens.app-main-76:/font/poppins_bold.ttf"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable-nodpi_recyclens_logo.jpg.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable-nodpi/recyclens_logo.jpg"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/xml_file_paths.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/font_poppins_medium.ttf.flat",
+        "source": "com.example.recyclens.app-main-76:/font/poppins_medium.ttf"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/xml_backup_rules.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable-nodpi_coin.png.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable-nodpi/coin.png"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.recyclens.app-main-76:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/font_poppins_semibold.ttf.flat",
+        "source": "com.example.recyclens.app-main-76:/font/poppins_semibold.ttf"
+    },
+    {
+        "merged": "com.example.recyclens.app-debug-74:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recyclens.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]
